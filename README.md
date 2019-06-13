@@ -4,7 +4,11 @@ Este repo contiene los datos, código y gráficas que usé/generé para analizar
 
 Publiqué los resultados de este análisis en [este artículo](https://datos.nexos.com.mx/?p=882) en Nexos. 
 
+<<<<<<< HEAD
 ![My image](https://github.com/segasi/analisis_ci_pgjcdmx_a_mayo_2019/blob/master/03_graficas/num_acumulado_ci_por_categoria.png)
+=======
+![My image](https://github.com/segasi/analisis_ci_pgjcdmx_a_mayo_2019/03_graficas/num_acumulado_ci_por_categoria.png)
+>>>>>>> a31b95055f66e98f537b5c431a8cb08b555a3e0c
 
 Obtuve la base de datos de delitos de la [Agencia Digital de Innovación Pública](https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-cdmx/custom/) (ADIP). Descargué la versión analizada en este texto el 11 de junio de 2019 a las 5:39 p.m.
 
